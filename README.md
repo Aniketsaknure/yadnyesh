@@ -7,6 +7,8 @@
 
 <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@yadnyesh" frameborder="0"></iframe>
 
+https://ionicabizau.github.io/github-profile-languages/api.html?@yadnyesh
+
 <!--
 **yadnyesh/yadnyesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
